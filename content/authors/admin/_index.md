@@ -34,7 +34,7 @@ profiles:
     url: 'jhkim3765@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/joonhyuk-kim-b89434208
 
 interests:
   - Labour Economics
