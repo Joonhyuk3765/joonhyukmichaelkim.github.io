@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 김준혁(Kim, Joonhyuk)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Joonhyuk (Michael) Kim
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Joonhyuk
+last_name: Kim
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Department Economics, Korea University
     url: https://openai.com/
 
 # Social network links
@@ -47,13 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Labour Economics
+  - Health Economics
+  - Family Economics
+  - Sports Economics
+  - Applied Microeconomics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Economics
+    institution: Korea University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
