@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 김준혁(Kim, Joonhyuk)
+title: Joonhyuk Kim
 
 # Name pronunciation (optional)
-name_pronunciation: Joonhyuk (Michael) Kim
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Joonhyuk
@@ -25,7 +25,7 @@ role: Ph.D Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department Economics, Korea University
-    url: https://openai.com/
+    url: http://econ.korea.ac.kr/econ/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -63,7 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MA Economics
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA Economics & Mathematics
+    institution: The Catholic University of Korea
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -86,26 +86,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Researcher
+    company_name: Korea Institute of Public Finance
+    company_url: 'https://www.kipf.re.kr/kor/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -185,4 +174,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Joonhyuk Kim is a PhD student in Economics at Korea University, specialising in applied microeconomics. My primary research interests lie in studying the impacts of public programmes on labour market outcomes and health status.
+
+I am also a full-time researcher at the Korea Institute of Public Finance (KIPF) in South Korea.
