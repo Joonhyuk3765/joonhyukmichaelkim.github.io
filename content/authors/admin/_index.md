@@ -130,6 +130,6 @@ awards:
 
 ## About Me
 
-Joonhyuk Kim is a PhD student in Economics at [Korea University](http://econ.korea.ac.kr/econ/), specialising in applied microeconomics. My primary research interests lie in studying the impacts of public programmes on labour market outcomes and health status.
+I am a PhD student in Economics at <a href="http://econ.korea.ac.kr/econ/" target="_blank">Korea University</a>, specialising in applied microeconomics. My primary research interests lie in studying the impacts of public programmes on labour market outcomes and health status.
 
-I am also a full-time researcher at [the Korea Institute of Public Finance (KIPF)](https://www.kipf.re.kr/kor/) in South Korea.
+I am also a full-time researcher at the <a href="https://www.kipf.re.kr/kor/" target="_blank">Korea Institute of Public Finance (KIPF)</a> in South Korea.
