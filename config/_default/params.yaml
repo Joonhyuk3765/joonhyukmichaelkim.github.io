@@ -8,6 +8,9 @@ appearance:
   mode: system
   color: emerald
 
+# Favicon
+Favicon: "images/crimson2positive.png" 
+
 # SEO
 marketing:
   seo:
