@@ -50,12 +50,12 @@ education:
     date_end: ''
   - area: MA Economics
     institution: Korea University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-03-01
+    date_end: 2022-02-14
   - area: BA Economics & Mathematics
     institution: The Catholic University of Korea
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-03-01
+    date_end: 2020-02-28
 
 work:
   - position: Researcher
@@ -66,9 +66,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - In-depth evaluation of public programmes
+      - Performance management of budgetary programmes 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -78,14 +77,10 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: chart-bar
+      - name: Latex
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
         icon: circle-stack
 
 languages:
@@ -95,7 +90,7 @@ languages:
     percent: 50
   - name: Japanese
     percent: 25
-
+<!--
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -127,7 +122,7 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
+-->
 ## About Me
 
 I am a PhD student in Economics at <a href="http://econ.korea.ac.kr/econ/" target="_blank">Korea University</a>, specialising in applied microeconomics. My primary research interests lie in studying the impacts of public programmes on labour market outcomes and health status.
