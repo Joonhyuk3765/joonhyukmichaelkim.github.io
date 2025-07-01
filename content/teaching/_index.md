@@ -1,23 +1,18 @@
 ---
 title: Teaching
-summary: My courses
-type: landing
+summary: Courses taught and assisted
+type: page
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+## 📚 Teaching Experience
 
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+### Instructor  
+**Introduction to Labour Economics**  
+Korea University, Spring 2025
+
+### Teaching Assistant  
+**Microeconomic Theory**  
+Korea University, Autumn 2024
+
+**Applied Econometrics**  
+Korea University, Spring 2024
 ---
