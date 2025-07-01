@@ -1,7 +1,7 @@
 ---
-title: Teaching
+title: "Teaching"
 summary: Courses taught and assisted
-type: page
+type: landing
 ---
 
 ## 📚 Teaching Experience
