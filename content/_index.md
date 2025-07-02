@@ -15,9 +15,17 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: "" 
+      css_class: dark 
       background:
-        color: white
+        color: black
+        image:
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+        color: white    
 
   - block: collection
     content:
