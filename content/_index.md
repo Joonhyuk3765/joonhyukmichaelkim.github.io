@@ -18,7 +18,6 @@ sections:
       css_class: "" 
       background:
         color: white
-        # image: null
 
   - block: collection
     content:
